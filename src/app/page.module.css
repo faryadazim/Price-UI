@@ -1,0 +1,16 @@
+.lorem {
+    height: 35 !important; /* set a default width */
+  }
+  
+  @media (min-width: 768px) {
+    /* set the width for medium screens (md breakpoint) */
+    .lorem {
+      height: 35 !important;
+    }
+  }
+  @media (min-width: 992px) {
+    /* set the width for medium screens (md breakpoint) */
+    .lorem {
+      height: 35 !important;
+    }
+  }
